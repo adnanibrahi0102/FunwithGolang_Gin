@@ -28,3 +28,4 @@ go.work.sum
 db/data/
 db/data/*
 db/data/**
+uploads/images/
